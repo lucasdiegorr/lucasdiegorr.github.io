@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+permalink: /blog/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id commodo tortor. Vivamus vel accumsan lorem. Fusce luctus ligula non nunc rhoncus condimentum. Etiam maximus, magna id rhoncus vestibulum, erat ipsum venenatis lorem, ut fringilla sapien mauris sit amet nibh. Nulla et urna at ipsum laoreet porta. Vestibulum pulvinar accumsan magna et laoreet. Morbi fringilla tortor a libero aliquam, quis finibus arcu ultrices. In lobortis pellentesque nisi, sed tristique magna mollis a. Pellentesque at cursus metus, ac porta ex. Sed pulvinar justo pretium pellentesque tempor. Fusce pellentesque massa sed odio facilisis cursus. Maecenas euismod eget felis sed fermentum. Morbi non massa hendrerit, viverra arcu ut, fermentum felis. Integer pellentesque fringilla tortor, sit amet tempor lectus finibus eleifend. Quisque sapien libero, sagittis vel convallis id, vulputate id magna.
