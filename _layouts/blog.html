@@ -6,13 +6,17 @@
 <body id="page-top">
   {% include nav.html %}
   {% include header.html %}
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="container">
+    <p></p>
+    <div class="col-sm-12 col-md-12 col-lg-12">
+      {% for post in site.posts %}
+        <div class="jumbotron">
+          <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+          <p>{{post.content}}</p>
+        </div> 
+      {% endfor %}
+    </div>   
+  </div>
   {{content}}
   {% include scripts.html %}
 </body>

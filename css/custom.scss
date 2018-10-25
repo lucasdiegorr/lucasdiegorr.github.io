@@ -49,6 +49,7 @@ header {
         position: relative;
         width: 100%;
         min-height: auto;
+        margin-bottom: 30px;
         @include background-cover;
         background-position: center;
         background-image: url('../img/header.jpg');
