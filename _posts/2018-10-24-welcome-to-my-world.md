@@ -1,5 +1,6 @@
 ---
 layout: post
 title: Welcome To My World
+categories: welcome
 ---
-Welcome to my World
+This artiicle is only to test some things
