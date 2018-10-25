@@ -4,7 +4,9 @@ email: lucas.diegorr@gmail.com
 description: My only intention is share the knowledge > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+permalink: /blog/:categories/:title
 
+# Social midias
 twitter_username: lucasdrrocha
 github_username: lucasdiegorr
 
