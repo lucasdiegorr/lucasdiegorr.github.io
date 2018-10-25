@@ -5,7 +5,7 @@ description: My only intention is share the knowledge > # this means to ignore n
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: lucasdiegorr
+twitter_username: lucasdrrocha
 github_username: lucasdiegorr
 
 # Build settings
